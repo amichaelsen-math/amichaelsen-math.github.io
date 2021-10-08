@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Anya Michaelsen
+tagline:          ''
+description:      ''
+url:              https://amichaelsen.github.io/
+baseurl:          /
+
+author:
+  name:           'Anya Michaelsen'
+  url:            https://amichaelsen.github.io
+
+paginate:         5
+
+# Custom vars
+# version:          2.1.0
+
+github:
+  repo:           https://github.com/amichaelsen/amichaelsen.github.io
