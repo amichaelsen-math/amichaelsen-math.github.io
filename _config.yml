@@ -9,12 +9,12 @@ permalink:        pretty
 title:            Anya Michaelsen
 tagline:          ''
 description:      ''
-url:              https://amichaelsen.github.io/
+url:              https://amichaelsen-math.github.io/
 baseurl:          /
 
 author:
   name:           'Anya Michaelsen'
-  url:            https://amichaelsen.github.io
+  url:            https://amichaelsen-math.github.io
 
 paginate:         5
 
@@ -22,4 +22,4 @@ paginate:         5
 # version:          2.1.0
 
 github:
-  repo:           https://github.com/amichaelsen/amichaelsen.github.io
+  repo:           https://github.com/amichaelsen-math/amichaelsen-math.github.io
