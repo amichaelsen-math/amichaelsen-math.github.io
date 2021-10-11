@@ -15,7 +15,7 @@ My CV can be found [here](/assets/cv.pdf). You can also view courses I have taug
 [here](/teaching) and my publications are listed [here](/research). You can find other writing
 I've done [here](/articles).
 
-Information about my recently completed Qualifying exam will be posted soon! 
+Information about my recently completed Qualifying exam will be posted soon. Stay tuned! 
 
 My email is:
 
