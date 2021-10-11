@@ -23,3 +23,8 @@ paginate:         5
 
 github:
   repo:           https://github.com/amichaelsen-math/amichaelsen-math.github.io
+
+plugins: 
+  - jekyll-paginate
+## enamble emojis
+#  - jemoji

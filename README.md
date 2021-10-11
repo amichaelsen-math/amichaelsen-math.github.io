@@ -18,7 +18,7 @@ This website was created using [Jekyll](https://jekyllrb.com/), speifically modi
 
 Open Command Prompt, navigate to GitHub repo. Run 
 
-    .../GitHub/amichaelsen-math.github.io> jekyll serve 
+    .../GitHub/amichaelsen-math.github.io> bundle exec jekyll serve 
 
 Then go to http://localhost:4000. 
 
