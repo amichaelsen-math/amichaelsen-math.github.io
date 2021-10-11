@@ -47,7 +47,7 @@ How **TO** to use these materials (for quals preparation)
 
 
 
-### Resources
+## Resources
 
 * [Grad handbook](https://math.berkeley.edu/sites/default/files/pages/Graduate%20Student%20Handbook%20%28October%202020%20Update%29.pdf) - The department maintains a graduate student handbook with a section on the qualifying exam, including logistics details regarding scheduling, filing, committee requirements, and syllabus approval. 
 * [Quals Syllabus Database](https://drive.google.com/drive/folders/12h9Q9x5ZnZtxcuCnbnA5jBPUJeBHZEww?usp=sharing) - The department also keeps a Google Drive of previous students Quals syllabi. When creating your syllabus, use this to find examples for your intended topics. Feel free to trim down from previous syllabi! 
