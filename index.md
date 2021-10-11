@@ -15,7 +15,7 @@ My CV can be found [here](/assets/cv.pdf). You can also view courses I have taug
 [here](/teaching) and my publications are listed [here](/research). You can find other writing
 I've done [here](/articles).
 
-I have also posted information about my experience with the UC Berkeley Qualifying Exam in mathematics [here](/quals), including syllabus, transcript, advice, and study materials. 
+I have also written up information about my experience with the UC Berkeley Qualifying Exam in mathematics [here](/quals), including my quals [syllabus](/assets/quals/quals syllabus.pdf), a [transcript](/assets/quals/quals transcript.pdf) of my exam, some [advice](/assets/quals/quals advice.pdf) on preparing, and my sample study materials. 
 
 My email is:
 
@@ -27,6 +27,6 @@ anya_michaelsen [at] berkeley [dot] edu.
 
 <footer style="margin-top: 100px; text-align: right; font-size: 12pt; color: grey">
 
-Last updated: October 5, 2021
+Last updated: October 11, 2021
 
 <footer/>
