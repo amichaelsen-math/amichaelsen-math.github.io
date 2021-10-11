@@ -1,0 +1,3 @@
+# exclude local files for Jekyll serving
+_site 
+.jekyll-cache

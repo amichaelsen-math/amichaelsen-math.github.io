@@ -15,7 +15,7 @@ My CV can be found [here](/assets/cv.pdf). You can also view courses I have taug
 [here](/teaching) and my publications are listed [here](/research). You can find other writing
 I've done [here](/articles).
 
-Information about my recently completed Qualifying exam will be posted soon. Stay tuned! 
+I have also posted information about my experience with the UC Berkeley Qualifying Exam in mathematics [here](/quals), including syllabus, transcript, advice, and study materials. 
 
 My email is:
 
