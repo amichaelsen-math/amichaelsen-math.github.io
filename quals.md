@@ -3,7 +3,7 @@ layout: page
 title: Quals
 ---
 
-I took my qualifying exam virtually (on Zoom) in October 2021. My topics were Algebraic Number Theory (major), Probability Theory (major), and Complex Analysis (minor). You can view my official [syllabus](/assets/quals/quals syllabus.pdf) and a [full transcript](/assets/quals/quals transcript.pdf) from the exam. 
+I took (and passed!) my qualifying exam in October 2021. My topics were Algebraic Number Theory (major), Probability Theory (major), and Complex Analysis (minor). You can view my official [syllabus](/assets/quals/quals syllabus.pdf) and a [full transcript](/assets/quals/quals transcript.pdf) from the exam. 
 
 ## Advice
 
